@@ -1,0 +1,34 @@
+@font-face {
+  font-family: 'Branding';
+  src: url('Branding-Medium.eot');
+  src: url('Branding-Medium.woff2') format('woff2'),
+       url('Branding-Medium.woff') format('woff'),
+       url('Branding-Medium.ttf') format('truetype'),
+       url('Branding-Medium.svg#Branding-Medium') format('svg'),
+       url('Branding-Medium.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Branding-SemiBold';
+  src: url('Branding-SemiBold.eot');
+  src: url('Branding-SemiBold.woff2') format('woff2'),
+       url('Branding-SemiBold.woff') format('woff'),
+       url('Branding-SemiBold.ttf') format('truetype'),
+       url('Branding-SemiBold.svg#Branding-SemiBold') format('svg'),
+       url('Branding-SemiBold.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Branding-Light';
+  src: url('Branding-Light.eot');
+  src: url('Branding-Light.woff2') format('woff2'),
+       url('Branding-Light.woff') format('woff'),
+       url('Branding-Light.ttf') format('truetype'),
+       url('Branding-Light.svg#Branding-Light') format('svg'),
+       url('Branding-Light.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
